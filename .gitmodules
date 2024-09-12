@@ -1,0 +1,3 @@
+[submodule "programmering"]
+	path = programmering
+	url = https://github.com/Ztorm-design/programmering.git
